@@ -14,3 +14,127 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Shivanshu%20Dubey&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CSE%20(AI%20%26%20ML)%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/codebyshivanshu17">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=CSE+AI+%26+ML+Engineering+Student;Building+with+Python+%2B+Java;AI+Engineering+with+OpenAI+API;React+%2B+JavaScript+Frontend+Dev;Detecting+Fraud+with+Machine+Learning" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=codebyshivanshu17&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/codebyshivanshu17?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&logo=github)
+
+</div>
+
+<br/>
+
+## 🧠 Who I Am
+
+```typescript
+const shivanshu = {
+  title: "CSE (AI & ML) Engineering Student",
+  stack: {
+    languages: ["Python", "Java"],
+    frontend: ["JavaScript", "React"],
+    ai: ["OpenAI API"],
+  },
+  launchedProjects: [
+    "credit-card-fraud — ML pipeline to detect fraudulent credit card transactions"
+  ],
+  certifications: [],
+  status: "Learning & building in AI Engineering 🚀",
+  openTo: ["Collaborations", "AI/ML Projects", "Learning Opportunities"],
+};
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 💳 Credit Card Fraud Detection
+
+An ML-powered system that analyzes historical transaction data to detect and flag fraudulent credit card activity — helping protect users from cybercriminals.
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codebyshivanshu17&repo=credit-card-fraud&theme=nord&border_color=7dd3fc&title_color=7dd3fc)](https://github.com/codebyshivanshu17/credit-card-fraud)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Domain | Machine Learning / Fraud Detection |
+| Data | Historical transaction analysis |
+
+<div align="center">
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebyshivanshu17/credit-card-fraud)
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java" />
+</div>
+
+**Frontend**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,react" />
+</div>
+
+**AI**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=openai" />
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=codebyshivanshu17&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyshivanshu17&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9"/>
+
+<img src="https://streak-stats.demolab.com/?user=codebyshivanshu17&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc"/>
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=codebyshivanshu17&theme=nord&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyshivanshu17&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true"/>
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshu-dubey-62602331a)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>
