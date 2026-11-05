@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 🎓 Third-year B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning.<br>- 💻 Passionate about software development, problem-solving, and building practical applications.<br>- 🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI.<br>- ☕ Exploring Java, Python, C, and modern development technologies.<br>- 🧠 Learning Data Structures & Algorithms and improving programming skills.<br>- 🚀 Building real-world projects in AI/ML, automation, and application development.<br>- 🌱 Continuously learning new technologies and exploring innovative ideas.<br>- 🤝 Open to collaboration, hackathons, and opportunities to learn and grow.<br>- 🎯 Aspiring Software Developer with an interest in AI-driven solutions.<br>
 
 
